@@ -1,0 +1,23 @@
+#box1{
+    border: 1px solid;
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+   
+ 
+}
+#box2{ 
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    background-color:red;
+ 
+    
+    
+}
+a:link{
+    color:black
+}
+#box1:hover{
+    color: brown;
+}
